@@ -22,3 +22,4 @@ console.log(preco - desconto);
 console.log(preco * 2);
 console.log( preco / 2);
 
+

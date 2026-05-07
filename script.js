@@ -21,3 +21,5 @@ const cpf ="123.456.789-00";
 console.log("cpf", cpf);
 console.log("novo const", typeof dado);
 
+
+
